@@ -1,5 +1,10 @@
 # Geometry Shoot
 ##### A Game by William Wang
+## Current State
+As of September 2 (BETA 1.5), the game features upgrade saving, 6 unique enemies, and 30 waves.
+
+Future updates include adding the remaining 20 waves along with an ending, implementing the final boss, King Cylinder, fixing some bugs, and adjusting balance with upgrades and enemy stats.
+
 ## Introduction
 Geometry Shoot is a top down, arcade-style shooter that pits the player against an increasing onslaught of geometric shapes with distinct and unique AI, patterns, and mechanics. In total, there are 7 enemies ranging from the humble triangle to the mighty octagon. The goal is to defeat enough enemies to upgrade your character in order to eventually defeat the 50th wave, consisting of the deadliest shape of all: King Cylinder.
 
